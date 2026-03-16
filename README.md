@@ -16,6 +16,12 @@ Campus Connect is a modern, full-stack serverless marketplace for digital and ph
 - **Infrastructure as Code:** AWS SAM/CloudFormation templates for automated deployment, scaling, and CI/CD integration.
 - **Testing:** Vitest, Testing Library, and backend test instructions for reliability and maintainability.
 
+## Real-time Features
+
+• Buyer–seller real-time chat using Firebase
+• Instant notifications for order updates
+• Google Maps integration for meetup scheduling
+
 ---
 
 ## Technologies Used
